@@ -13,11 +13,5 @@ A tetris game fully built using [Jetpack Compose](https://developer.android.com/
 
 <br/>
 
-## :nut_and_bolt: MVI Architecture:
-
-<img src="/results/mvi_arch.png">
-
-<br/>
-
 ## :camera_flash: Screenshots
 <img src="/results/screenshot.gif" width="480">
